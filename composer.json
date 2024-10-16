@@ -1,6 +1,6 @@
 {
     "name": "2amigos/yii2-file-upload-widget",
-    "description": "Blueimp file upload widget for the Yii framework",
+    "description": "Bs5 Blueimp file upload widget for the Yii framework",
     "keywords": [
         "2amigos",
         "yii",
@@ -11,7 +11,7 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-file-upload-widget",
+    "homepage": "https://github.com/Ignacio-Urrea/yii2-file-upload-widget",
     "authors": [
         {
             "name": "2amigOS! Consulting Group",
@@ -22,7 +22,7 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0.0",
-        "yiisoft/yii2-bootstrap": "^2.0.0",
+        "yiisoft/yii2-bootstrap5": "~2.0.2",
         "2amigos/yii2-gallery-widget": "^1.0",
         "bower-asset/blueimp-file-upload": "^9.9"
     },
