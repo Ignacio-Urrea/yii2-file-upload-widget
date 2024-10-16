@@ -1,8 +1,8 @@
 {
-    "name": "2amigos/yii2-file-upload-widget",
+    "name": "ignacio-urrea/yii2-file-upload-widget",
     "description": "Bs5 Blueimp file upload widget for the Yii framework",
     "keywords": [
-        "2amigos",
+        "Ignacio-Urrea",
         "yii",
         "yii2",
         "yii 2",
@@ -21,6 +21,7 @@
         }
     ],
     "require": {
+        "php": ">=7.4",
         "yiisoft/yii2": "^2.0.0",
         "yiisoft/yii2-bootstrap5": "~2.0.2",
         "2amigos/yii2-gallery-widget": "^1.0",
